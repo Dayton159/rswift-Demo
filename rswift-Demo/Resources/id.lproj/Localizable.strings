@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  rswift-Demo
+
+  Created by Dayton on 06/09/21.
+  
+*/
+"elephant" = "Gajah";
+"dolphin" = "Lumba-lumba";
+"fox" = "Rubah";
+"kangaroo" = "Kangguru";
+"rhino" = "Badak";
+"seahorse" = "Kuda Laut";
+"squirrel" = "Tupai";
+"walrus" = "Singa Laut";
+"wolf" = "Serigala";
+"jellyfish" = "Ubur-ubur";
+"setting" = "Setelan";
+"animalTab" = "Hewan";
+"color" = "Warna";
+"animalNavTitle" = "Hewan-hewan di Bumi";
+"changeLanguage" = "Pilih Bahasa";
+"indonesia" = "Indonesia";
+"english" = "Inggris";
+"cancel" = "Batal";
+"language" = "Bahasa";

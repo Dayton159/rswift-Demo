@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  rswift-Demo
+
+  Created by Dayton on 06/09/21.
+  
+*/
+"elephant" = "Elephant";
+"dolphin" = "Dolphin";
+"fox" = "Fox";
+"kangaroo" = "Kangaroo";
+"rhino" = "Rhino";
+"seahorse" = "Seahorse";
+"squirrel" = "Squirrel";
+"walrus" = "Walrus";
+"wolf" = "Wolf";
+"jellyfish" = "Jellyfish";
+"setting" = "Settings";
+"animalTab" = "Animal";
+"color" = "Color";
+"animalNavTitle" = "Animals On Earth";
+"changeLanguage" = "Choose Language";
+"indonesia" = "Indonesia";
+"english" = "English";
+"cancel" = "Cancel";
+"language" = "Language";
