@@ -11,3 +11,5 @@ _Note:_ The project already had the R.swift build phase's configuration setup do
 ## Demo
 
 <img src="AppPreview/appPreview.gif" width=250 height=500>
+
+This is a sample project used in my [Medium Article](https://medium.com/@dayton159/strong-typed-resources-management-with-r-swift-1e3c8093ea41)
